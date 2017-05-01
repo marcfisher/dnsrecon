@@ -1463,10 +1463,10 @@ def main():
     ignore_wildcardrr = arguments.iw
 
     xfr = arguments.a
-    goo = arguments.g
+    #goo = arguments.g
     do_whois = arguments.w
     zonewalk = arguments.z
-    spf_enum = arguments.s
+    #spf_enum = arguments.s
     wildcard_filter = arguments.f
 
     # Setting the number of threads to 10
